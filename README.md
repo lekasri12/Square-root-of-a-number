@@ -1,4 +1,4 @@
-# Find the square root of a number
+# EX-05-Find the square root of a number
 ## DATE:
 
 ## AIM:
